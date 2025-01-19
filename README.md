@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tope Wilson
 - 👀 I’m a software developer
-- 🌱 I’m currently learning everything relateed to javascript and React
+- 🌱 I’m currently learning everything related to javascript and React
 - 💞️ I’m looking to collaborate on web applications 
 
 <!---
